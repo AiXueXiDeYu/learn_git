@@ -24,4 +24,8 @@
 
 
     - git status 当前仓库的状态
-        
+    .git local
+    remote github/gitee   代码安全 还有多人协作
+
+git remote add origin https://github.com/AiXueXiDeYu/learn_git.git
+
